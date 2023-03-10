@@ -3,10 +3,13 @@
 # dependencies
 /node_modules
 /.pnp
+/.firebase
 .pnp.js
 
 # testing
 /coverage
+.firebaserc
+firebase.json
 
 # production
 /build
